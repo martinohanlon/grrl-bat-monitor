@@ -1,11 +1,11 @@
-#PiGRRL Pocket Battery Monitor
+#Pocket PiGRRL Battery Monitor
 ##Martin O'Hanlon (martin@ohanlonweb.com)
 ##http://www.stuffaboutcode.com
 
 ##Description
-A program for the (Adafruit Pocket Pi GRRL)[https://learn.adafruit.com/pocket-pigrrl/overview] which displays a battery low icon when the battery needs charging.
+A program for the [Adafruit Pocket Pi GRRL](https://learn.adafruit.com/pocket-pigrrl/overview) which displays a battery low icon when the battery needs charging.
 
-See (www.stuffaboutcode.com/2016/01/pocket-pigrrl-battery-monitor.html)[http://www.stuffaboutcode.com/2016/01/pocket-pigrrl-battery-monitor.html] for more information and installation instructions.
+See [www.stuffaboutcode.com/2016/01/pocket-pigrrl-battery-monitor.html](http://www.stuffaboutcode.com/2016/01/pocket-pigrrl-battery-monitor.html) for more information and installation instructions.
 
 ##Structure
 * grrl_bat_mon.c - source code
