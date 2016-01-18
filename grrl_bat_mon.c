@@ -177,6 +177,7 @@ int main(int argc, char* argv[])
 
         // Register signal and signal handler for cleanup
         signal(SIGINT, signal_callback_handler);
+        signal(SIGTERM, signal_callback_handler);
 
         // setup gpio
         wiringPiSetupGpio();

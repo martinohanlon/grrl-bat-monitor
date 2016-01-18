@@ -16,3 +16,4 @@ See [www.stuffaboutcode.com/2016/01/pocket-pigrrl-battery-monitor.html](http://w
 
 ##Version history
 * 0.1 - Initial stable version
+* 0.2 - Minor change add SIGTERM
